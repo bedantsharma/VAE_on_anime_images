@@ -4,7 +4,7 @@
 i used 20000 images form this dataset to train my model although this data set contains some 60000+ images 
 ## Model -
 ### inupt 
-the model takes 64*64*3 jpg images as input in form of a numpy array 
+the model takes 64x64x3 numpy array images as input. 
 ### encoder - 
 the model consists an encoder which is made up by various convolutional layers i also added maxpooling layer somewhere in between 
 ### sampling Z - 
